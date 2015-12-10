@@ -6,9 +6,9 @@
 		
 		Ex: F:\angular2\RoutingEnabled>tsc -p src -w --experimentalDecorators --emitDecoratorMetadata
 		
-		and 
+		and leave it aside as Running to watch continously for ts file changes 
 		
-		Then Ope the Another Command Prompt and Go to the Root of the Folder
+		Then Open Another Command Prompt and Go to the Root of the Folder
 		
 		npm start
 		
