@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>DevMastery Routing</title>
+    <script src="../node_modules/systemjs/dist/system.src.js"></script>
+    <script src="../node_modules/angular2/bundles/angular2.dev.js"></script>
+    <script src="../node_modules/angular2/bundles/router.dev.js"></script>
+    <script src="../node_modules/angular2/bundles/http.dev.js"></script>
+    <script src="../node_modules/rx/dist/rx.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="../styles/bootstrap.min.css"/>
+	<link rel="stylesheet" type="text/css" href="../styles/style.css"/>
+    <script>
+      System.config({
+        packages: {'app': {defaultExtension: 'js'}}
+      });
+      
+      System.import('app/app');
+    </script>
+  </head>
+  <body>
+    <mainApp>Loading...</mainApp>
+  </body>
+</html>

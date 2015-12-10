@@ -1,0 +1,30 @@
+
+body
+{
+	background-color: teal;
+	border: 1pt thin lightblue;
+	margin: 15px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.main-header
+{
+	
+	color: whitesmoke;
+	font-size: larger;
+	text-align: center;
+	
+}
+
+.centered-heading
+{
+	text-align: center;
+}
+
+.dummy-body
+{
+	
+	vertical-align: middle;
+	text-align: center;
+	margin: 100px
+}
