@@ -8,9 +8,9 @@
 		
 		and leave it aside as Running to watch continously for ts file changes 
 		
-		Then Open Another Command Prompt and Go to the Root of the Folder
+		Then Open Another Command Prompt and Go to the Root of the Folder and run below command to start static file server.
 		
-		npm start
+		> npm start
 		
 		Now you should able to see the Devmastery Angular2 Lab Website
 		
